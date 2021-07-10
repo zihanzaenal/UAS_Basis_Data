@@ -41,8 +41,14 @@ Kelas : TI.19.B2
 ![Screenshot (343)](https://user-images.githubusercontent.com/81241228/125168507-119ed080-e1d0-11eb-940e-ae5acbcd9487.png)
 12. Melihat Riwayat transaction
 ![Screenshot (345)](https://user-images.githubusercontent.com/81241228/125168591-7823ee80-e1d0-11eb-8386-87ad9752c44c.png)
-13. Logout
+13. Membuat Trigger
+![Screenshot (321)](https://user-images.githubusercontent.com/81241228/125169246-7c054000-e1d3-11eb-9210-c0c1ec479ab9.png)
+![Screenshot (322)](https://user-images.githubusercontent.com/81241228/125169248-7f003080-e1d3-11eb-8a43-d31b80489f1c.png)
+![Screenshot (323)](https://user-images.githubusercontent.com/81241228/125169251-832c4e00-e1d3-11eb-84d5-1e987f292e52.png)
+![Screenshot (356)](https://user-images.githubusercontent.com/81241228/125169276-9a6b3b80-e1d3-11eb-91c7-9b466ee2814f.png)
+14. Logout
 ![Screenshot (346)](https://user-images.githubusercontent.com/81241228/125168594-7a864880-e1d0-11eb-83c7-029c61f33f10.png)
+
 
 
 
